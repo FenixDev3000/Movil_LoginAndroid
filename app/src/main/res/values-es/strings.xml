@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movil_Login</string>
+
+    <string name= "login">Iniciar Sesion</string>
+    <string name= "user">Usuario</string>
+    <string name= "pass">Contraseña</string>
+    <string name= "rights">Todos los derechos reservados</string>
+</resources>

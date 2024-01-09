@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movil_Login</string>
+
+    <string name="login">Login</string>
+    <string name="user">User</string>
+    <string name="pass">Password</string>
+    <string name="rights">All rights reserved 2024</string>
+</resources>
